@@ -1,6 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import degree_10 as d10
+
 
 # Class to represent a graph
 class Graph:
